@@ -29,6 +29,7 @@
 2.  Откройте архив **`Assets.zip`** любым архиватором (WinRAR, 7-Zip).
 3.  Внутри архива перейдите по пути: **`Server\Languages\ru-RU`**.
 4.  Замените файлы `wordlists.lang` и `server.lang` из папки `Server/` этого репозитория в архив **`Assets.zip`**.
+
 ВСЁ!
 ---
 

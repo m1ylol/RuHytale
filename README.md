@@ -1,4 +1,4 @@
-# RuHytale (Russian Localization v1.0) by RemakeStudio
+# RuHytale by RemakeStudio
 
 ![Hytale Russian Localization](https://img.shields.io/badge/Language-Russian-red)
 ![Game Version](https://img.shields.io/badge/Hytale-Release_v1.0-blue)
@@ -9,7 +9,7 @@
 ## Установка
 
 1. Скачайте `HytaleRussifier.exe` из раздела [Releases](../../releases)
-2. Запустите установщик
+2. Запустите установщик предварительно закрыв игру
 3. Выберите путь к игре (обычно определяется автоматически)
 4. Нажмите "Установить русификатор"
 5. Готово! Запустите игру

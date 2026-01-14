@@ -1,7 +1,6 @@
 # RuHytale by RemakeStudio
 
 ![Hytale Russian Localization](https://img.shields.io/badge/Language-Russian-red)
-![Game Version](https://img.shields.io/badge/Hytale-Release_v1.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Первый полный и качественный русификатор для **Hytale**, разработанный профессиональной студией **RemakeStudio**. Мы перевели всё: от интерфейса и системных сообщений до шрифтов и серверных листов, обеспечив полную совместимость с архитектурой игры.

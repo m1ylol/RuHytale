@@ -2260,3 +2260,12 @@ feedback.success.submitMore = Отправить ещё
 
 
 bugReportButton.tooltip = Сообщить об ошибке или оставить отзыв
+
+
+# === new release ===
+patchline.launchNotification.text = Вы запускаете предварительную версию патча Hytale.\n\n\
+patchline.launchNotification.title = Предварительная версия патча
+patchline.worldWarning.duplicateWorld = Дублировать мир
+patchline.worldWarning.openAnyway = Всё равно открыть
+patchline.worldWarning.text = Вы собираетесь открыть мир, используя другую версию патча.\n\n\
+patchline.worldWarning.title = Предупреждение о версии патча

@@ -5,19 +5,19 @@ earSide.right = Правое
 earSide.both = Оба
 
 pattern.skull = Узор с черепом
-pattern.star = Узор со звездой
+pattern.star = Звёздный узор
 pattern.gaia = Призматический узор дерева
-pattern.cat = Узор с кошкой
-pattern.bunny = Узор с кроликом
-pattern.unicorn = Узор с единорогом
-pattern.cat = Узор с кошкой
-pattern.play = Узор с кнопкой воспроизведения
-pattern.play_inverted = Инвертированный узор с кнопкой воспроизведения
+pattern.cat = Кошачий узор
+pattern.bunny = Заячий узор
+pattern.unicorn = Узор единорога
+pattern.cat = Кошачий узор
+pattern.play = Узор кнопки воспроизведения
+pattern.play_inverted = Инвертированный узор кнопки воспроизведения
 
-pants.dungareesshorts = Короткий комбинезон
+pants.dungareesshorts = Шорты-комбинезон
 pants.bracedshorts = Шорты на подтяжках
 pants.dungarees = Комбинезон
-pants.bracedpants = Брюки на подтяжках
+pants.bracedpants = Штаны на подтяжках
 
 default = По умолчанию
 
@@ -28,7 +28,7 @@ capes.no_neck = Без воротника
 haircuts.Dreadlocks01.name = Дреды 1
 haircuts.Dreadlocks02.name = Дреды 2
 haircuts.Dreadlocks03.name = Дреды 3
-haircuts.SlickbackCowlick.name = [TMP] Зачёсанные с вихром
+haircuts.SlickbackCowlick.name = [TMP] Зачёс с вихром
 
 headaccessory.Logo_Cap_Movie.name = Логотип фильма
 headaccessory.Logo_Cap_Heart.name = Логотип сердца
